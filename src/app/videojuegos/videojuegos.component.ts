@@ -11,6 +11,6 @@ import {Component} from '@angular/core';
     </h3>
     `  // The html code where will be show the compoent. The inverted quote marks let doing here
 })
-export class ViedojuegosComponent{
+export class VideojuegosComponent{
     public nombre = 'Video juegos 2021'
 }

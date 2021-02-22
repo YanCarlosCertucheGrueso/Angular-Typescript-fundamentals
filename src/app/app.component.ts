@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular-Typescript-Fundamentals';
+  description = " Cusro de Introducción a angular";
 }
